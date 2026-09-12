@@ -22,7 +22,7 @@
 | # | Lăng kính (Lặp lại / Tốn thời gian / AI có thể tốt hơn / Pain từ người khác) | Problem quan sát được | Ai chịu ảnh hưởng? | Dấu hiệu thật (Thời gian + Tần suất + Bằng chứng/Quote/Log) |
 |---|---|---|---|---|
 | 1 | **AI có thể tốt hơn** *(kết hợp Tốn thời gian)* | Tốn thời gian tìm kiếm thông tin khóa học và kiến thức đã học do rải rác trên quá nhiều nền tảng (Phoenix, Discord, Outlook, VLearn, GitHub) dưới nhiều định dạng (slide, doc, code) | Sinh viên, học viên trong lớp | • **Mất bao lâu:** 25–40 phút/lần tìm kiếm và đối chiếu tài liệu trước mỗi bài lab.<br>• **Mấy lần/tuần:** 3–4 lần/tuần.<br>• **Bằng chứng (Quote/Chat):** Kênh `#general` Discord lớp liên tục có tin nhắn: *"Mọi người ơi slide buổi 3 thầy up trên VLearn hay Outlook thế?"*, *"Ai có link GitHub repo mẫu lab 2 cho mình xin lại với"*. |
-| 2 | **Pain từ người khác** *(kết hợp Lặp lại)* | Sau meeting hoặc khi có thông tin mới, team mất thời gian tổng hợp lại nội dung, phân task, xác định owner và deadline | Trưởng nhóm (Leader), thành viên nhóm đồ án | • **Mất bao lâu:** 20–30 phút sau mỗi buổi họp để lọc ghi chép và gõ thành danh sách task.<br>• **Mấy lần/tuần:** 2–3 lần/tuần (theo lịch họp đồ án).<br>• **Bằng chứng (Quote/Log):** Log chat Discord: *"Hôm qua họp xong ai nhận làm phần database nhỉ?"*, *"Tưởng task đấy của Linh chứ?"; 1–2 task bị trôi hoặc trễ deadline mỗi tuần do chỉ chốt miệng. |
+| 2 | **Pain từ người khác** *(kết hợp Lặp lại)* | Sau meeting, leader mất thời gian chuyển các đầu việc lớn, còn mơ hồ thành những task đủ nhỏ để thực hiện, xác định dependency, owner và deadline | Trưởng nhóm (Leader), thành viên nhóm đồ án | • **Mất bao lâu:** 20–30 phút sau mỗi buổi họp để xem lại nội dung, phân rã và lập danh sách task.<br>• **Mấy lần/tuần:** 2–3 lần/tuần (theo lịch họp đồ án).<br>• **Bằng chứng (Quote/Log):** Log chat Discord: *"Task làm chatbot thì cụ thể phải làm những phần nào?"*, *"Ai làm backend, ai chuẩn bị bộ câu hỏi mẫu?"*; 1–2 task bị thiếu hoặc trễ mỗi tuần vì đầu việc ban đầu quá lớn và chưa rõ dependency. |
 | 3 | **Lặp lại** *(kết hợp Tốn thời gian)* | Mỗi ngày mất thời gian chọn món vừa tiện, hợp khẩu vị, ngân sách sinh viên và đủ dinh dưỡng | Bản thân, sinh viên ở trọ | • **Mất bao lâu:** 15–25 phút/bữa bấm điện thoại lướt menu/ShopeeFood (tổng ~35–50 phút/ngày).<br>• **Mấy lần/tuần:** 14 lần/tuần (2 bữa chính/ngày).<br>• **Bằng chứng (Quote/Log):** Lịch sử app đặt món hiển thị 4/7 ngày ăn cùng 1 quán quen; tin nhắn than phiền với bạn: *"Lại không biết trưa nay ăn gì, lướt 20 phút rồi chưa chốt được"*; 2 lần/tuần ăn mì gói hoặc bỏ bữa. |
 | 4 | **Pain từ người khác** *(kết hợp Tốn thời gian)* | Không biết đồ trong tủ lạnh sắp hết hạn nên dễ quên dùng (gây hư hỏng phải vứt) hoặc đi chợ mua trùng món đã có | Bản thân, bạn cùng phòng trọ / gia đình | • **Mất bao lâu:** 15–20 phút dọn tủ mỗi cuối tuần; mất tiền mua trùng.<br>• **Mấy lần/tuần:** Xảy ra hàng tuần (dọn tủ 1 lần/tuần, đi chợ 2 lần/tuần).<br>• **Bằng chứng (Quote/Log):** Vứt bỏ 150.000đ – 250.000đ tiền đồ quá hạn mỗi tháng; bạn cùng phòng cằn nhằn: *"Hộp sữa chua này hết hạn từ tuần trước sao chưa vứt?"*, *"Nhà còn 2 chai tương ớt sao lại mua thêm?"*. |
 | 5 | **Lặp lại** *(kết hợp AI có thể tốt hơn)* | Mỗi sáng mất thời gian chọn outfit phù hợp với thời tiết thực tế, lịch học và hoạt động trong ngày | Bản thân | • **Mất bao lâu:** 10–15 phút mỗi sáng đứng phân vân trước tủ đồ.<br>• **Mấy lần/tuần:** 5–6 lần/tuần (các buổi sáng đi học/lên lab).<br>• **Bằng chứng (Quote/Log):** Bị trễ giờ học 1–2 lần/tháng do chọn đồ lâu; 1–2 lần/tháng gặp sự cố trang phục (mặc áo quá dày vào ngày nồm nóng hoặc ướt mưa do không kịp check thời tiết). |
@@ -51,7 +51,7 @@ Giữ bài nào: actor cụ thể, workflow vẽ được 3-7 bước, bottlenec
 
 | Rank | Problem (copy từ bảng scan) | Vì sao chọn (2-3 ý) | Điều còn chưa chắc |
 |---|---|---|---|
-| 1 | **Problem #2:** Sau meeting hoặc khi có thông tin mới, team mất thời gian tổng hợp lại nội dung, phân task, xác định owner và deadline | - Workflow họp nhóm rất rõ ràng (3–5 bước), xảy ra liên tục hàng tuần.<br>- Bottleneck ở bước trích xuất action item và gõ lại docs rất đau.<br>- Dễ đo lường bằng số phút tiết kiệm và tỷ lệ task trễ hạn. | Cần cơ chế để team thống nhất chấp thuận task trước khi chốt chính thức (human approval). |
+| 1 | **Problem #2:** Sau meeting, leader mất thời gian phân rã các đầu việc lớn thành task có thể thực hiện, xác định dependency, owner và deadline | - Workflow lập kế hoạch sau họp rõ ràng và lặp lại hàng tuần.<br>- Bottleneck nằm ở bước phân rã yêu cầu mơ hồ thành task đủ nhỏ và khả thi.<br>- Có thể đo bằng thời gian tiết kiệm, tỷ lệ task được chấp nhận và tỷ lệ task trễ do phân rã thiếu. | AI cần thêm bối cảnh dự án, năng lực thành viên và human approval để tránh tạo task nghe hợp lý nhưng không sát thực tế. |
 | 2 | **Problem #1:** Tốn thời gian tìm thông tin khóa học và kiến thức đã học do rải rác trên nhiều nền tảng (Phoenix, Discord, Outlook, VLearn, GitHub) | - Actor cụ thể (sinh viên), pain point thật sự lớn khi mùa thi/lab đến.<br>- Dữ liệu tài liệu đa dạng nhưng có cấu trúc bài học rõ ràng.<br>- Tiềm năng AI hỗ trợ tìm kiếm ngữ nghĩa (Semantic Search/RAG) rất cao. | Phân quyền truy cập tài liệu và cập nhật dữ liệu khi giảng viên đổi link/file. |
 | 3 | **Problem #3:** Mỗi ngày mất thời gian chọn món vừa tiện, hợp khẩu vị, ngân sách sinh viên và đủ dinh dưỡng | - Tần suất lặp lại cực cao: 2 lần/ngày, 14 lần/tuần, tốn 35–50 phút/ngày.<br>- Tác động trực tiếp đến sức khỏe sinh viên (bỏ bữa, ăn mì gói, ăn lặp lại).<br>- Bài toán gợi ý cá nhân hóa (Personalized Recommendation) có input/boundary rất rõ ràng. | Dữ liệu quán ăn xung quanh và biến động giá/phí ship thời gian thực. |
 
@@ -61,39 +61,41 @@ Giữ bài nào: actor cụ thể, workflow vẽ được 3-7 bước, bottlenec
 
 ---
 
-#### Problem Card #1 — Tổng hợp meeting notes & trích xuất Action items sau cuộc họp nhóm
+#### Problem Card #1 — Phân rã đầu việc lớn và lập kế hoạch thực thi sau cuộc họp nhóm
 
 ```text
 Problem 1 câu:
-Sau mỗi buổi họp nhóm đồ án kéo dài 45–60 phút, trưởng nhóm/thư ký mất 20–30 phút tổng hợp lại bản ghi chép rời rạc để bóc tách thành các đầu việc (action items), gán người phụ trách (owner) và deadline, nhưng các thành viên vẫn hay bỏ sót việc.
+Sau mỗi buổi họp nhóm đồ án, trưởng nhóm mất 20–30 phút xem lại nội dung thảo luận và phân rã các đầu việc lớn, còn mơ hồ thành những task đủ nhỏ để thực hiện, xác định dependency, người phụ trách và deadline; việc phân rã thiếu hoặc chưa rõ khiến thành viên không biết bắt đầu từ đâu và dễ chậm tiến độ.
 
 Actor:
-Trưởng nhóm sinh viên (Team Leader) hoặc Thư ký phụ trách điều phối dự án môn học.
+Trưởng nhóm sinh viên chịu trách nhiệm lập kế hoạch và phân công công việc. Thư ký có thể hỗ trợ nhập dữ liệu và gửi kết quả, nhưng leader là người phê duyệt cuối cùng.
 
 Thời điểm / bối cảnh:
-Ngay sau khi kết thúc buổi họp nhóm online qua Google Meet / Discord (2–3 buổi/tuần).
+Ngay sau các buổi họp nhóm online qua Google Meet hoặc Discord, thường diễn ra 2–3 lần mỗi tuần trong quá trình làm đồ án môn học.
 
 Current workflow 3-7 bước:
-1. Leader/thư ký mở file nháp hoặc nghe lại ghi âm buổi họp để nhớ lại nội dung đã chốt.
-2. Đọc lướt lại toàn bộ ý kiến để lọc ra những việc cần làm (action items).
-3. Gán tên người chịu trách nhiệm (owner) và ngày đến hạn (deadline) cho từng việc.
-4. Định dạng lại thành văn bản tóm tắt (Bullet points) trong Google Docs / Notion.
-5. Copy nội dung gửi vào kênh chat nhóm trên Discord/Zalo và tag tên từng người.
+1. Leader mở lại transcript, ghi chú hoặc bản ghi âm cuộc họp.
+2. Xác định các deliverable lớn đã được thống nhất, ví dụ “xây dựng chatbot”.
+3. Phân rã từng deliverable thành các component như frontend, backend, dữ liệu câu hỏi và kiểm thử.
+4. Chia mỗi component thành các task nhỏ có kết quả đầu ra và definition of done rõ ràng.
+5. Xác định thứ tự thực hiện và dependency giữa các task.
+6. Ước lượng khối lượng, gán owner và deadline dựa trên năng lực, lịch rảnh của thành viên.
+7. Định dạng danh sách và gửi lên Google Docs, Notion hoặc kênh chat nhóm để các thành viên xác nhận.
 
 Bottleneck:
-Bước 2 & 3: Lắng nghe/đọc lại toàn bộ nội dung dài để trích xuất chính xác "Ai làm việc gì, khi nào nộp", tốn 15–20 phút và dễ bị sót cam kết miệng của thành viên.
+Bước 3–6: Leader phải chuyển yêu cầu còn mơ hồ thành kế hoạch thực thi, đồng thời cân nhắc dependency, khối lượng công việc, năng lực và lịch rảnh của từng thành viên. Quá trình này tốn thời gian, phụ thuộc nhiều vào kinh nghiệm và dễ tạo ra task quá lớn, thiếu task hoặc deadline không khả thi.
 
 Impact:
-Mất 40–90 phút/tuần của người tổng hợp; 1–2 công việc bị trôi/chậm tiến độ mỗi tuần làm ảnh hưởng tới cả nhóm trước ngày nộp bài môn học.
+Leader mất khoảng 40–90 phút mỗi tuần để phân rã và phân công công việc; thành viên không hiểu rõ đầu ra cần bàn giao hoặc không biết bắt đầu từ đâu; 1–2 task mỗi tuần bị thiếu, phân công không cân bằng hoặc trễ do dependency chỉ được phát hiện muộn.
 
 Success metric:
-Giảm thời gian tạo và gửi danh sách task sau họp từ 25 phút xuống dưới 5 phút; 100% task có đầy đủ owner và deadline; giảm tỷ lệ quên task của nhóm về 0.
+Giảm thời gian tạo bản phân rã và phân công đầu tiên từ 20–30 phút xuống dưới 5 phút; ít nhất 80% task AI đề xuất được leader chấp nhận mà không cần sửa lớn; 100% task được duyệt có owner, deadline và definition of done; ít nhất 90% thành viên xác nhận task rõ ràng, khả thi; giảm ít nhất 50% số task trễ do phân rã thiếu hoặc bỏ sót dependency.
 
 Non-AI alternative:
-Sử dụng template Google Docs có sẵn khung Action Items và bắt buộc từng người tự điền phần việc của mình trước khi rời cuộc họp (tuy nhiên mọi người hay vội rời họp và quên điền).
+Sử dụng template Work Breakdown Structure bắt buộc điền theo chuỗi: Deliverable → Component → Task → Output/Definition of Done → Dependency → Effort → Owner → Deadline. Cuối cuộc họp, leader cùng các thành viên dành 5–10 phút để phân rã và xác nhận công việc trước khi rời phòng họp.
 
 AI hypothesis:
-Dùng AI đọc bản transcript cuộc họp (hoặc bản ghi chú thô), tự động phân loại: (1) Quyết định đã chốt, (2) Danh sách Action Items kèm Owner và Deadline gợi ý, để người thật review và phê duyệt trước khi gửi.
+Dùng AI đọc transcript hoặc ghi chú thô, kết hợp với thông tin dự án, deadline tổng, công nghệ sử dụng, năng lực và lịch rảnh của thành viên để xác định deliverable; đề xuất Work Breakdown Structure gồm task, output/definition of done, dependency, effort, owner và deadline; đồng thời đánh dấu thông tin còn thiếu hoặc không chắc chắn. Leader chỉnh sửa và phê duyệt trước khi giao việc.
 
 Quick gut:
 [ ] No AI / process fix
@@ -106,22 +108,22 @@ Quick gut:
 **Draft workflow Card #1:**
 
 ```text
-CURRENT STATE — 25 phút
+CURRENT STATE — 20–30 phút
 
-[1 Đọc lại ghi chép thô: 5']
-→ [2 Lọc các đầu việc cần làm: 10']  <-- bottleneck
-→ [3 Gán owner & deadline: 5']
-→ [4 Format vào Docs: 3']
-→ [5 Gửi chat nhóm: 2']
+[1 Đọc lại transcript/ghi chú: 5']
+→ [2 Xác định deliverable lớn: 3']
+→ [3 Phân rã component và task: 8–12']       <-- bottleneck
+→ [4 Xác định dependency, effort: 3–5']       <-- bottleneck
+→ [5 Gán owner, deadline và gửi nhóm: 3–5']
 
 FUTURE STATE — 5 phút
 
-[1 Dán transcript/ghi chú thô: 0.5']
-→ [2 AI trích xuất Decisions + Action items + Deadline: 1']  -- AI Workflow
-→ [3 Leader review, sửa tên/ngày và approve: 3']            <-- human boundary
-→ [4 Tự động gửi notification vào kênh Discord: 0.5']
+[1 Dán transcript + nhập bối cảnh dự án/nhóm: 1']
+→ [2 AI đề xuất WBS, dependency, effort, owner và deadline: 1']  -- AI Workflow
+→ [3 Leader review, sửa và phê duyệt: 2.5']                     <-- human boundary
+→ [4 Gửi bản đã duyệt để thành viên xác nhận: 0.5']
 
-Fallback: nếu AI nhận diện sai owner/deadline → Leader sửa trực tiếp trên giao diện review trước khi ấn nút gửi.
+Fallback: nếu thiếu bối cảnh hoặc độ tin cậy thấp, AI không tự điền mà đánh dấu mục cần làm rõ; leader sửa trực tiếp hoặc dùng template WBS thủ công trước khi gửi.
 ```
 
 ---
@@ -258,27 +260,27 @@ Fallback: Nếu không thích cả 2 gợi ý → Bấm "Đổi món khác" ho�
 **Card tôi muốn pitch nhất:**
 
 ```text
-Problem Card #1: Tổng hợp meeting notes & trích xuất Action items (Task, Owner, Deadline) sau cuộc họp nhóm đồ án.
+Problem Card #1: Phân rã đầu việc lớn thành kế hoạch thực thi gồm Task, Definition of Done, Dependency, Owner và Deadline sau cuộc họp nhóm đồ án.
 ```
 
 **Vì sao (2-3 câu: workflow gì, số đo gì, impact gì):**
 
 ```text
-1. Đây là vấn đề mà mọi sinh viên và người đi làm trong nhóm đều từng trải qua: cuộc họp thảo luận rất sôi nổi nhưng kết thúc thì không ai nhớ rõ ai làm gì, ai chốt gì.
-2. Workflow cực kỳ rõ ràng, chuẩn hóa và có điểm nghẽn cụ thể (bước trích xuất từ 45 phút họp thành 5-7 gạch đầu dòng task).
-3. Impact đo lường được ngay bằng thời gian thực tế (giảm từ 25 phút gõ tổng hợp xuống 5 phút review) và loại bỏ hoàn toàn tình trạng trễ hạn bài tập do quên việc.
+1. Sau cuộc họp, các nhóm thường mới chốt đầu việc lớn như “làm chatbot”, nhưng chưa chỉ ra các component, task nhỏ, dependency và kết quả cần bàn giao.
+2. Điểm nghẽn nằm ở việc leader phải dùng kinh nghiệm để biến yêu cầu mơ hồ thành kế hoạch khả thi, đồng thời cân đối năng lực và lịch rảnh của thành viên.
+3. Impact đo được bằng thời gian lập bản phân rã, tỷ lệ task AI đề xuất được chấp nhận và số task trễ do phân rã thiếu hoặc bỏ sót dependency.
 ```
 
 **Câu hỏi tôi muốn nhóm challenge (1-2 câu hỏi đúng chỗ yếu):**
 
 ```text
-1. "Nếu nội dung cuộc họp quá hỗn loạn, nhiều người nói chen ngang hoặc quyết định chưa dứt khoát, làm sao AI biết đâu là Action Item chính thức để bóc tách?"
-2. "Tại sao không chỉ cần một bạn thư ký ghi chép trực tiếp vào bảng phân công Excel trong lúc họp, liệu có thực sự cần đến AI workflow không?"
+1. "Nếu transcript chỉ nói chung chung là ‘làm chatbot’, AI lấy đâu ra đủ bối cảnh để phân rã đúng kiến trúc, phạm vi và dependency thay vì tạo ra các task nghe hợp lý nhưng không sát dự án?"
+2. "Một template Work Breakdown Structure và 5–10 phút chốt task cuối buổi họp có giải quyết đủ tốt vấn đề mà không cần AI không?"
 ```
 
 **AI phản biện Card (nếu có):**
-- **Điểm yếu AI chỉ ra:** Đừng nhảy vội sang ý tưởng "xây một AI Agent tự tham gia cuộc họp và tự giao việc trên Jira", vì sinh viên họp thường tự do, không theo agenda chuẩn, dễ sinh ra rủi ro AI gán nhầm task nhạy cảm hoặc tạo rác trên hệ thống quản lý task.
-- **Tôi sửa gì:** Thu hẹp phạm vi giải pháp lại ở mức **Workflow hỗ trợ (Human-in-the-loop)**: AI chỉ đóng vai trò phân tích bản ghi/ghi chú để đưa ra "Bản nháp Action Items", trưởng nhóm bắt buộc phải là người review, chỉnh sửa và bấm duyệt trước khi thông báo tới cả nhóm.
+- **Điểm yếu AI chỉ ra:** Transcript không chứa đủ thông tin về phạm vi, công nghệ, tiêu chí hoàn thành, năng lực và lịch rảnh của thành viên thì AI không thể phân rã và phân công đáng tin cậy. Metric “đủ owner/deadline” cũng có thể khuyến khích AI điền đủ nhưng sai.
+- **Tôi sửa gì:** Chuyển trọng tâm từ trích xuất Action Items sang đề xuất **Work Breakdown Structure** có context đầu vào và confidence flag. Giữ giải pháp ở mức **Workflow hỗ trợ (Human-in-the-loop)**: AI tạo bản nháp, leader bắt buộc review và phê duyệt, thành viên xác nhận tính khả thi trước khi thực hiện.
 
 ### Self-check nộp phần 01
 - [x] Có 5+ problems + top 3 Cards đủ field
